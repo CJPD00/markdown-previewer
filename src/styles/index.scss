@@ -58,3 +58,22 @@ i {
     cursor: pointer;
     opacity: 70%;
 }
+
+#preview {
+
+    pre {
+        background-color: whitesmoke;
+    }
+
+    img{
+        width: 80%;
+        height: 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+code {
+    background-color: whitesmoke;
+}
